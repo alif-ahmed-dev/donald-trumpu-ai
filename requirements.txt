@@ -1,0 +1,8 @@
+streamlit
+easyocr
+opencv-python-headless
+gTTS
+Pillow
+numpy
+requests
+google-generativeai
